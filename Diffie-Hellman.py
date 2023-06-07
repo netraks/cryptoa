@@ -1,5 +1,3 @@
- # Diffie-Hellman Code
-
 def prime_checker(p):
 	# Checks If the number entered is a Prime Number or not
 	if p < 1:
